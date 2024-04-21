@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: VR Images
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5450043740944568218
+  m_GuidHigh: 17289511226126481831
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5326532583101401116
+      m_GuidHigh: 12745459068196758702
+    m_SerializedTextureGuid:
+      m_GuidLow: 14714584745057410743
+      m_GuidHigh: 6844748180845888138
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ET
+    m_Texture: {fileID: 2800000, guid: 4a875eb7b4ddcc348a025298346efd5e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5482534556598027423
+      m_GuidHigh: 5470035044737083053
+    m_SerializedTextureGuid:
+      m_GuidLow: 11625193913064350076
+      m_GuidHigh: 16006309934366476378
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: frogger
+    m_Texture: {fileID: 2800000, guid: 613be17cfc45a1545a48b88a14d621de, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4625500588600810193
+      m_GuidHigh: 12063366618483296405
+    m_SerializedTextureGuid:
+      m_GuidLow: 14124458748236525706
+      m_GuidHigh: 3433843901438635403
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: PressureCooker
+    m_Texture: {fileID: 2800000, guid: 9d4bf08a2865c4048b2d64c7d576a72f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4669801045087355819
+      m_GuidHigh: 10713360066864047247
+    m_SerializedTextureGuid:
+      m_GuidLow: 11881747001766367041
+      m_GuidHigh: 3945740353845276587
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Centripede
+    m_Texture: {fileID: 2800000, guid: 2758cf4171f2a4e4ab2fdf46f215c236, type: 3}
